@@ -1,4 +1,4 @@
-**Final Capstone Project — Python Beginner Course**
+Final Capstone Project — Python Beginner Course
 
 Introduction
 
@@ -67,7 +67,7 @@ Required packages:
 
 ---
 
-▶️ Usage
+Usage
 
 Run the scraper with:
 
@@ -123,7 +123,7 @@ project-folder/
 └── README.md               # Project documentation
 ```
 
-Key Components**
+Key Components
 
 | Component | Description |
 |----------|-------------|
